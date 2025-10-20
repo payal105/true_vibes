@@ -1,0 +1,1560 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://housa-html-demo.vercel.app/about-us.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\about-us.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/add-property.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\add-property.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/assets/css/fonts/fa-brands-400.woff2
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://housa-html-demo.vercel.app/assets/css/fonts/fa-regular-400.woff2
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://housa-html-demo.vercel.app/assets/css/fonts/fa-solid-900.woff2
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://housa-html-demo.vercel.app/assets/css/fonts/fa-v4compatibility.woff2
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://housa-html-demo.vercel.app/assets/css/main.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\main.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/aos.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\aos.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/bootstrap.min.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/fontawesome.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\fontawesome.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/magnific-popup.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/nice-select.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\nice-select.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/odometer.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\odometer.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/owlcarousel.min.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\owlcarousel.min.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/sidebar.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\sidebar.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/slick-slider.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\slick-slider.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/css/plugins/swiper-slider.css
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\css\plugins\swiper-slider.css
+Content Type: text/css
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/about/about-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\about\about-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/about/about-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\about\about-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/about/about-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\about\about-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/about/about-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\about\about-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/about/about-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\about\about-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/about/about-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\about\about-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/bg/h-bg1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\bg\h-bg1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/bg/map-bg.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\bg\map-bg.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/bg/team-bg1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\bg\team-bg1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img12.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img12.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img13.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img13.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img14.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img14.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img15.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img15.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img16.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img16.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img17.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img17.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img18.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img18.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img19.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img19.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/blog/blog-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\blog\blog-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/case/case-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\case\case-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/case/case-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\case\case-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/case/case-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\case\case-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/case/case-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\case\case-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/category/ca-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\category\ca-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/cta/cta-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\cta\cta-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/demo/demo-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\demo\demo-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/demo/demo-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\demo\demo-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/demo/demo-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\demo\demo-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/demo/demo-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\demo\demo-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/footer/footer-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\footer\footer-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/footer/footer-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\footer\footer-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/footer/footer-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\footer\footer-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/footer/footer-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\footer\footer-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/footer/footer-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\footer\footer-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/footer/footer-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\footer\footer-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/gallery/gallery-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\gallery\gallery-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/hero/hero-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\hero\hero-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/items/item-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\items\item-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/items/item-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\items\item-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/items/item-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\items\item-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/listing/listing-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\listing\listing-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/listing/listing-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\listing\listing-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/add-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\add-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/add-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\add-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/add-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\add-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/add-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\add-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/bg-1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\bg-1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/others/others-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\others\others-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img12.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img12.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img13.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img13.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img14.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img14.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img15.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img15.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img16.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img16.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img17.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img17.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/p-location/p-loaction-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\p-location\p-loaction-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img12.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img12.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img13.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img13.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img14.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img14.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img15.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img15.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img16.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img16.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img17.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img17.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img18.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img18.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img19.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img19.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img20.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img20.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img21.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img21.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img22.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img22.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img23.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img23.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img24.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img24.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img25.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img25.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img26.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img26.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img27.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img27.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img28.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img28.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img29.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img29.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img30.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img30.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img31.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img31.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img32.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img32.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img33.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img33.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img34.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img34.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img35.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img35.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img36.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img36.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img37.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img37.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img38.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img38.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img39.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img39.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img40.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img40.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img41.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img41.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img42.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img42.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/properties/property-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\properties\property-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/service/service-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\service\service-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/service/service-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\service\service-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/service/service-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\service\service-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/service/service-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\service\service-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/service/service-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\service\service-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/service/service-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\service\service-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/team/team-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\team\team-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img10.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img10.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img11.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img11.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img12.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img12.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img13.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img13.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img14.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img14.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/testimonial/testimonial-img9.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\testimonial\testimonial-img9.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/work/work-img1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\work\work-img1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/work/work-img2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\work\work-img2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/work/work-img3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\work\work-img3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/all-images/work/work-img4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\all-images\work\work-img4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements2.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements2.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements3.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements3.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements4.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements4.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements5.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements5.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements6.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements6.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements7.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements7.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/elements/elements8.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\elements\elements8.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/icons/arrow1.svg
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\icons\arrow1.svg
+Content Type: image/svg+xml
+
+Uri: https://housa-html-demo.vercel.app/assets/img/icons/check1.svg
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\icons\check1.svg
+Content Type: image/svg+xml
+
+Uri: https://housa-html-demo.vercel.app/assets/img/icons/check2.svg
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\icons\check2.svg
+Content Type: image/svg+xml
+
+Uri: https://housa-html-demo.vercel.app/assets/img/icons/heart1.svg
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\icons\heart1.svg
+Content Type: image/svg+xml
+
+Uri: https://housa-html-demo.vercel.app/assets/img/icons/heart2.svg
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\icons\heart2.svg
+Content Type: image/svg+xml
+
+Uri: https://housa-html-demo.vercel.app/assets/img/icons/quito1.svg
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\icons\quito1.svg
+Content Type: image/svg+xml
+
+Uri: https://housa-html-demo.vercel.app/assets/img/logo/fav-logo1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\logo\fav-logo1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/logo/logo1.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\logo\logo1.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/img/logo/preloader.png
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\img\logo\preloader.png
+Content Type: image/png
+
+Uri: https://housa-html-demo.vercel.app/assets/js/main.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/aos.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\aos.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/bootstrap.min.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/chart-init.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\chart-init.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/chart.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\chart.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/circle-progress.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\circle-progress.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/fontawesome.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\fontawesome.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/gsap.min.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/jquery-3-7-1.min.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\jquery-3-7-1.min.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/jquery.appear.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/jquery.odometer.min.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\jquery.odometer.min.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/magnific-popup.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/mobilemenu.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\mobilemenu.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/nice-select.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\nice-select.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/owlcarousel.min.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\owlcarousel.min.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/ScrollTrigger.min.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/sidebar.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\sidebar.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/slick-slider.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\slick-slider.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/swiper-slider.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\swiper-slider.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/textSplite-custom.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\textSplite-custom.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/assets/js/plugins/waypoints.js
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\assets\js\plugins\waypoints.js
+Content Type: application/javascript
+
+Uri: https://housa-html-demo.vercel.app/blog-detail.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\blog-detail.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/blog-grid.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\blog-grid.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/blog.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\blog.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/contact.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\contact.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/dashboard.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\dashboard.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/faq.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\faq.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/index.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/index2.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\index2.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/index3.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\index3.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/index4.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\index4.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/message.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\message.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/my-favorites.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\my-favorites.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/my-profile.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\my-profile.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/my-property.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\my-property.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/our-service.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\our-service.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/pricing.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\pricing.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/privacy-policy.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\privacy-policy.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/property-details-v1.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\property-details-v1.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/property-details-v2.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\property-details-v2.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/property-details-v3.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\property-details-v3.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/property-details-v4.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\property-details-v4.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/property-halfmap-grid.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\property-halfmap-grid.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/property-halfmap-list.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\property-halfmap-list.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/reviews.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\reviews.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/sidebar-grid.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\sidebar-grid.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/sidebar-list.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\sidebar-list.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/topmap-grid.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\topmap-grid.html
+Content Type: text/html
+
+Uri: https://housa-html-demo.vercel.app/topmap-list.html
+File Name: C:\xampp\htdocs\true-vibes_realty\housa-html-demo.vercel.app\topmap-list.html
+Content Type: text/html
+

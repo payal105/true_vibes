@@ -26,7 +26,7 @@
   <div class="preloader">
     <div class="loading-container">
       <div class="loading"></div>
-      <div id="loading-icon"><img src="assets/img/logo/preloader.png" alt="housa"></div>
+      <div id="loading-icon"><img src="assets/img/logo/true_vibes_logo.png" alt="housa"></div>
     </div>
   </div>
   <!--===== PRELOADER ENDS =======-->
@@ -53,11 +53,11 @@
             <div class="vl-main-menu text-center">
               <nav class="vl-mobile-menu-active">
                 <ul>
-                  <li class="has-dropdown">
+                  <li>
                     <a href="index.php">Home</a>
                     
                   </li>
-                  <li class="has-dropdown">
+                  <li>
                     <a href="about.php">About Us</a>
                   </li>
                   <li><a href="properties.php">Properties</a>
@@ -95,7 +95,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="index.html"><img src="assets/img/logo/logo1.png" alt="housa"></a>
+            <a href="index.php"><img src="assets/img/logo/true_vibes_logo.png" alt="housa"></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>

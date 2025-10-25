@@ -5,7 +5,8 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="hero-heading heading1">
-            <h1 class="text-anime-style-3">Welcome to True Vibes Realty</h1>
+            <h1 class="text-anime-style-3">Welcome To True Vibes Realty</h1>
+            <div class="space32"></div>
             
             <div class="space32"></div>
             
@@ -14,69 +15,290 @@
       </div>
       <div class="space100"></div>
       <div class="space16"></div>
-      
-    </div>
-  </div>
-  <!--===== HERO AREA ENDS =======-->
-  <!--===== SERVICE AREA STARTS =======-->
-  <div class="service2 sp2">
-    <div class="container">
       <div class="row">
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="800" data-aos-offset="60px">
-          <div class="service-h2-boxarea">
-            <a href="our-service.html" class="title">Lorem, ipsum.</a>
-            <div class="space24"></div>
-            <div class="img1">
-              <img src="assets/img/all-images/service/service-img1.png" alt="housa">
-            </div>
-            <div class="space20"></div>
-            <div class="pera-arrow">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, dignissimos?</p>
-              <a href="our-service.html" class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewbox="0 0 38 38" fill="none">
-                  <path d="M8.30499 19.0002H26.6374" stroke="#1B1B1B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
-                  <path d="M19.1899 11.5527L26.6375 19.0003L19.1899 26.4478" stroke="#1B1B1B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg></a>
-            </div>
+        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="800" data-aos-offset="70px">
+          <div class="counterh2-boxarea">
+            <h3><span class="odometer text-nowrap" data-count="100"></span>+</h3>
+            <div class="space10"></div>
+            <p>Property Available</p>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="80px">
-          <div class="service-h2-boxarea">
-            <a href="our-service.html" class="title">Lorem, ipsum dolor.</a>
-            <div class="space24"></div>
-            <div class="img1">
-              <img src="assets/img/all-images/service/service-img2.png" alt="housa">
-            </div>
-            <div class="space20"></div>
-            <div class="pera-arrow">
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, officiis?</p>
-              <a href="our-service.html" class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewbox="0 0 38 38" fill="none">
-                  <path d="M8.30499 19.0002H26.6374" stroke="#1B1B1B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
-                  <path d="M19.1899 11.5527L26.6375 19.0003L19.1899 26.4478" stroke="#1B1B1B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg></a>
-            </div>
+        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="900" data-aos-offset="80px">
+          <div class="counterh2-boxarea">
+            <h3><span class="odometer text-nowrap" data-count="40"></span>+</h3>
+            <div class="space10"></div>
+            <p>Total Partner</p>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-offset="100px">
-          <div class="service-h2-boxarea">
-            <a href="our-service.html" class="title">Lorem ipsum dolor sit.</a>
-            <div class="space24"></div>
-            <div class="img1">
-              <img src="assets/img/all-images/service/service-img3.png" alt="housa">
-            </div>
-            <div class="space20"></div>
-            <div class="pera-arrow">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, quod!</p>
-              <a href="our-service.html" class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewbox="0 0 38 38" fill="none">
-                  <path d="M8.30499 19.0002H26.6374" stroke="#1B1B1B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
-                  <path d="M19.1899 11.5527L26.6375 19.0003L19.1899 26.4478" stroke="#1B1B1B" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
-                </svg></a>
-            </div>
+        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="90px">
+          <div class="counterh2-boxarea">
+            <h3><span class="odometer text-nowrap" data-count="50"></span>+</h3>
+            <div class="space10"></div>
+            <p>Ready To Move</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-6" data-aos="fade-up" data-aos-duration="1100" data-aos-offset="100px">
+          <div class="counterh2-boxarea">
+            <h3><span class="odometer text-nowrap" data-count="20"></span>+</h3>
+            <div class="space10"></div>
+            <p>Ongoing Projects</p>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!--===== SERVICE AREA STARTS =======-->
+  <!--===== HERO AREA ENDS =======-->
+<!-- Include Swiper CSS -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/swiper/swiper-bundle.min.css"
+/>
+
+<!--===== SERVICE AREA STARTS =======-->
+
+            <div class="space50"></div>
+<div class="heading1">
+            <h5 style="text-align:center">Our Services</h5>
+            <div class="space16"></div>
+            <h2 class="text-anime-style-3" style="text-align:center">What We Offer?</h2>
+            
+          </div>
+<div class="service2 sp2">
+  <div class="container">
+    <div class="row">
+      <!-- Service Item 1 -->
+      <div
+        class="col-lg-4 col-md-6"
+        data-aos="fade-up"
+        data-aos-duration="800"
+        data-aos-offset="60px"
+      >
+        <div class="service-h2-boxarea">
+          <a href="properties.php" class="title">Flats & Bungalows</a>
+          <div class="space24"></div>
+
+          <!-- Swiper Slider -->
+          <div class="swiper serviceSwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img
+                  src="assets/img/services/s1.jpg"
+                  alt="Flats & Bungalows 1"
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="assets/img/services/s12.jpg"
+                  alt="Flats & Bungalows 2"
+                />
+              </div>
+              <div class="swiper-slide">
+                <img
+                  src="assets/img/services/s13.jpg"
+                  alt="Flats & Bungalows 3"
+                />
+              </div>
+            </div>
+
+            <!-- Explore Button -->
+            <a href="properties.php" class="explore-btn">
+              Explore Now
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-arrow-right"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Service Item 2 -->
+      <div
+        class="col-lg-4 col-md-6"
+        data-aos="fade-up"
+        data-aos-duration="1000"
+        data-aos-offset="80px"
+      >
+        <div class="service-h2-boxarea">
+          <a href="properties.php" class="title">Commercial Properties</a>
+          <div class="space24"></div>
+
+          <div class="swiper serviceSwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="assets/img/services/s21.jpg" alt="Commercial 1" />
+              </div>
+              <div class="swiper-slide">
+                <img src="assets/img/services/s22.jpg" alt="Commercial 2" />
+              </div>
+              <div class="swiper-slide">
+                <img src="assets/img/services/s23.jpg" alt="Commercial 3" />
+              </div>
+            </div>
+
+            <a href="properties.php" class="explore-btn">
+              Explore Now
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-arrow-right"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Service Item 3 -->
+      <div
+        class="col-lg-4 col-md-6"
+        data-aos="fade-up"
+        data-aos-duration="1200"
+        data-aos-offset="100px"
+      >
+        <div class="service-h2-boxarea">
+          <a href="properties.php" class="title">Lands & Plots</a>
+          <div class="space24"></div>
+
+          <div class="swiper serviceSwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="assets/img/services/s31.jpg" alt="Land 1" />
+              </div>
+              <div class="swiper-slide">
+                <img src="assets/img/services/s32.jpg" alt="Land 2" />
+              </div>
+              <div class="swiper-slide">
+                <img src="assets/img/services/s33.jpg" alt="Land 3" />
+              </div>
+            </div>
+
+            <a href="properties.php" class="explore-btn">
+              Explore Now
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="feather feather-arrow-right"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===== SERVICE AREA ENDS =======-->
+
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<script>
+  var sliders = document.querySelectorAll(".serviceSwiper");
+  sliders.forEach(function (slider) {
+    new Swiper(slider, {
+      loop: true,
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
+      },
+      speed: 800,
+      effect: "fade",
+    });
+  });
+</script>
+
+<style>
+  .service-h2-boxarea {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+  }
+
+  .service-h2-boxarea img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: transform 0.6s ease;
+  }
+
+  .service-h2-boxarea:hover img {
+    transform: scale(1.05);
+  }
+
+  /* Explore button styling */
+  .explore-btn {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    background: #33A1E0;
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 30px;
+    transition: background 0.3s ease, transform 0.2s ease;
+    z-index: 10;
+  }
+
+  .explore-btn:hover {
+    background: #33A1E0;
+    transform: translateY(-2px);
+  }
+
+  .explore-btn svg {
+    stroke: #fff;
+    transition: transform 0.3s ease;
+  }
+
+  .explore-btn:hover svg {
+    transform: translateX(3px);
+  }
+
+  .service-h2-boxarea .title {
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+</style>
+
+
   <!--===== ABOUT AREA STARTS =======-->
   <div class="about2 sp1">
     <div class="container">
@@ -117,7 +339,7 @@
 <div class="brand-section">
   <div class="container">
     <div class="heading1 text-center space-margin60">
-      <h5>Our Partners</h5>
+      <h5>Our Tie-Ups</h5>
       <div class="space10"></div>
       <h2 class="text-anime-style-3">Brands We Work With</h2>
     </div>
@@ -149,91 +371,6 @@
 </div>
 <!--===== BRAND AREA ENDS =======-->
 
-  <!--===== TEAM AREA STARTS =======-->
-  <div class="team2 sp2">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 m-auto">
-          <div class="heading1 text-center space-margin60">
-            <h5>Our Team Member</h5>
-            <div class="space16"></div>
-            <h2 class="text-anime-style-3">Meet The Expert Behind Housa</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-          <div class="team2-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team/team-img5.png" alt="housa" class="main-img">
-              <img src="assets/img/elements/elements1.png" alt="housa" class="elements1">
-            </div>
-            <div class="content-area">
-              <div class="text">
-                <a href="#">Rodger Struck</a>
-                <div class="space10"></div>
-                <p>Senior Agent</p>
-              </div>
-              
-            </div>
-            
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-          <div class="team2-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team/team-img6.png" alt="housa" class="main-img">
-              <img src="assets/img/elements/elements1.png" alt="housa" class="elements1">
-            </div>
-            <div class="content-area">
-              <div class="text">
-                <a href="#">Alex Buckmaster</a>
-                <div class="space10"></div>
-                <p>Agent</p>
-              </div>
-              
-            </div>
-            
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1100">
-          <div class="team2-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team/team-img7.png" alt="housa" class="main-img">
-              <img src="assets/img/elements/elements1.png" alt="housa" class="elements1">
-            </div>
-            <div class="content-area">
-              <div class="text">
-                <a href="#">Sarah Joe</a>
-                <div class="space10"></div>
-                <p>Marketer</p>
-              </div>
-              
-            </div>
-            
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
-          <div class="team2-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team/team-img8.png" alt="housa" class="main-img">
-              <img src="assets/img/elements/elements1.png" alt="housa" class="elements1">
-            </div>
-            <div class="content-area">
-              <div class="text">
-                <a href="#">Chris Glasser</a>
-                <div class="space10"></div>
-                <p>Marketer</p>
-              </div>
-              
-            </div>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--===== TEAM AREA ENDS =======-->
   <!--===== TESTIMONIAL AREA STARTS =======-->
   <div class="testi2 sp1">
     <div class="container">

@@ -1,6 +1,6 @@
   <?php include 'header.php'; ?>
   <!--===== HERO AREA STARTS =======-->
-  <div class="hero2-section-area" style="background-image: url(assets/img/all-images/hero/hero-img2.png); background-position: center; background-repeat: no-repeat; background-size: cover;">
+  <div class="hero2-section-area" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(assets/img/properties/p3.jpg) center/cover no-repeat;">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
@@ -307,27 +307,31 @@
           <div class="heading1">
             <h5>About Company</h5>
             <div class="space16"></div>
-            <h2 class="text-anime-style-3">Lorem ipsum dolor sit amet.</h2>
+            <h2 class="text-anime-style-3">Who We Are</h2>
             <div class="space50"></div>
             <div class="img1 image-anime reveal">
-              <img src="assets/img/all-images/about/about-img3.png" alt="housa">
+              <img src="assets/img/properties/p1.jpg" alt="housa">
             </div>
           </div>
         </div>
         <div class="col-lg-4">
           <div class="space30 d-lg-none d-block"></div>
           <div class="img2 image-anime reveal">
-            <img src="assets/img/all-images/about/about-img4.png" alt="housa">
+            <img src="assets/img/services/s13.jpg" alt="housa">
           </div>
         </div>
         <div class="col-lg-4">
           <div class="heading1">
             
             <div class="space30"></div>
-            <p data-aos="fade-left" data-aos-duration="1000">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut fuga sed dolores illum facere mollitia veritatis ab, quam dolor ipsa accusantium quas officia ipsum vero magnam fugit molestias, iusto ratione?</p>
-            <div class="space32"></div>
+            <p data-aos="fade-left" data-aos-duration="1000">
+              At True Vibes Realty, we specialize in turning real estate dreams into reality. As a trusted selling partner for leading real estate companies, we bridge the gap between exceptional properties and the right buyers. Our team brings deep market knowledge, honest guidance, and strategic expertise to every transaction, ensuring a seamless and satisfying experience for both developers and clients.
+We focus on creating real connections — built on transparency, trust, and true value. From luxury residences to large-scale developments, we handle every project with professionalism and passion, ensuring that every sale reflects the quality and vision of our partners.
+True Vibes Realty — where every deal resonates with trust, value, and success.
+
+              <div class="space32"></div>
             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
-              <a href="property-halfmap-grid.html" class="vl-btn1">Explore <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></a>
+              <a href="properties.php" class="vl-btn1">Explore <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></a>
             </div>
           </div>
         </div>
@@ -371,152 +375,315 @@
 </div>
 <!--===== BRAND AREA ENDS =======-->
 
-  <!--===== TESTIMONIAL AREA STARTS =======-->
-  <div class="testi2 sp1">
-    <div class="container">
-      <div class="row align-items-center">
+  <div class="space30"></div>
+  <!--===== CONTACT AREA STARTS =======-->
+  <div class="contact-inner">
+    <div class="container-fluid">
+      <div class="row">
+
+      </div>
+      <div class="space50"></div>
+      <div class="row">
         <div class="col-lg-6">
-          <div class="testi-img image-anime reveal">
-            <img src="assets/img/all-images/testimonial/testimonial-img1.png" alt="housa">
+          <div class="chosse-images">
+            
+            <div class="img1 text-end">
+              <img src="assets/img/all-images/others/others-img9.png" alt="housa">
+            </div>
+            
           </div>
         </div>
         <div class="col-lg-6">
-          <div class="heading1">
-            <h5>Testimonials</h5>
-            <div class="space16"></div>
-            <h2 class="text-anime-style-3">Hear from satisfied clients who have found dream Their homes.</h2>
-            <div class="space50"></div>
-            <div class="testimonial-container">
-              <div class="swiper mySwiper">
-                <div class="swiper-wrapper">
-                  <!-- Slide 1 -->
-                  <div class="swiper-slide">
-                    <div class="testimonial-card">
-                      <div class="stars">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                      </div>
-                      <div class="space20"></div>
-                      <p class="testimonial-text">
-                        "Housa made our home-buying experience smooth and stress-free. Highly recommend their services!"
-                      </p>
-                      <div class="space32"></div>
-                      <div class="profile-quito">
-                        <div class="profile">
-                          <img src="assets/img/all-images/testimonial/testimonial-img9.png" alt="housa">
-                          <div class="name">
-                            <h4>Santiago Towne</h4>
-                            <span>Home Owner</span>
-                          </div>
-                        </div>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewbox="0 0 50 50" fill="none">
-                          <g clip-path="url(#clip0_6058_76061)">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M30 37.5L34 25.2273H30L30 15L40 15L40 25.2273L36 37.5H30Z" fill="#ED8438"></path>
-                            <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M12.5 37.5L16.5 25.2273H12.5L12.5 15L22.5 15L22.5 25.2273L18.5 37.5H12.5Z" fill="#ED8438"></path>
-                          </g>
-                          <defs>
-                            <clippath id="clip0_6058_76061">
-                              <rect width="50" height="50" fill="white"></rect>
-                            </clippath>
-                          </defs>
-                        </svg>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Slide 2 -->
-                  <div class="swiper-slide">
-                    <div class="testimonial-card">
-                      <div class="stars">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                      </div>
-                      <div class="space20"></div>
-                      <p class="testimonial-text">
-                        "Housa made our home-buying experience smooth and stress-free. Highly recommend their services!"
-                      </p>
-                      <div class="space32"></div>
-                      <div class="profile-quito">
-                        <div class="profile">
-                          <img src="assets/img/all-images/testimonial/testimonial-img9.png" alt="housa">
-                          <div class="name">
-                            <h4>Santiago Towne</h4>
-                            <span>Home Owner</span>
-                          </div>
-                        </div>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewbox="0 0 50 50" fill="none">
-                          <g clip-path="url(#clip0_6058_76061)">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M30 37.5L34 25.2273H30L30 15L40 15L40 25.2273L36 37.5H30Z" fill="#ED8438"></path>
-                            <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M12.5 37.5L16.5 25.2273H12.5L12.5 15L22.5 15L22.5 25.2273L18.5 37.5H12.5Z" fill="#ED8438"></path>
-                          </g>
-                          <defs>
-                            <clippath id="clip0_6058_76061b">
-                              <rect width="50" height="50" fill="white"></rect>
-                            </clippath>
-                          </defs>
-                        </svg>
-                      </div>
-                    </div>
-                  </div>
-                  <!-- Slide 3 -->
-                  <div class="swiper-slide">
-                    <div class="testimonial-card">
-                      <div class="stars">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                      </div>
-                      <div class="space20"></div>
-                      <p class="testimonial-text">
-                        "Housa made our home-buying experience smooth and stress-free. Highly recommend their services!"
-                      </p>
-                      <div class="space32"></div>
-                      <div class="profile-quito">
-                        <div class="profile">
-                          <img src="assets/img/all-images/testimonial/testimonial-img9.png" alt="housa">
-                          <div class="name">
-                            <h4>Santiago Towne</h4>
-                            <span>Home Owner</span>
-                          </div>
-                        </div>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewbox="0 0 50 50" fill="none">
-                          <g clip-path="url(#clip0_6058_76061)">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M30 37.5L34 25.2273H30L30 15L40 15L40 25.2273L36 37.5H30Z" fill="#ED8438"></path>
-                            <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M12.5 37.5L16.5 25.2273H12.5L12.5 15L22.5 15L22.5 25.2273L18.5 37.5H12.5Z" fill="#ED8438"></path>
-                          </g>
-                          <defs>
-                            <clippath id="clip0_6058_76061a">
-                              <rect width="50" height="50" fill="white"></rect>
-                            </clippath>
-                          </defs>
-                        </svg>
-                      </div>
-                    </div>
+          <form class="contact-boxarea" action="mailing.php" method="POST">
+            <div class="bg-area">
+              <h3>Get In Touch</h3>
+              <div class="space8"></div>
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="input-area">
+                    <input type="text" placeholder="Your Name" required name="fname">
                   </div>
                 </div>
-                <!-- Navigation Buttons -->
-                <div class="swiper-button-prev custom-prev"></div>
-                <div class="swiper-button-next custom-next"></div>
+                <div class="col-lg-6">
+                  <div class="input-area">
+                    <input type="text" placeholder="Last Name*" required name="lname">
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="input-area">
+                    <input type="number" placeholder="Phone Number" required name="phone">
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="input-area">
+                    <input type="email" placeholder="Email Address*" required name="email">
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="input-area">
+                    <textarea placeholder="Your Message" required name="message"></textarea>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="space16"></div>
+                  <div class="input-area text-end">
+                    <button type="submit" class="vl-btn1">Submit Now <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></button>
+                  </div>
+                </div>
               </div>
             </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="space30"></div>
+
+  <!--===== CONTACT AREA ENDS =======-->
+
+<!--===== TESTIMONIAL SECTION START =====-->
+<div class="inner-header-area">
+    <div class="containe-fluid">
+      <div class="row">
+        
+        <div class="col-lg-12">
+          <div class="inner-images">
+            <img src="assets/img/testimonial.jpg" alt="housa">
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!--===== TESTIMONIAL AREA ENDS =======-->
+<!--===== TESTIMONIAL SECTION END =====-->
+
+<!--===== PROPERTIES_LOCATION AREA STARTS =======-->
+<div class="p-location2 sp1">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 m-auto">
+        <div class="heading1 text-center space-margin60">
+          <div class="space16"></div>
+          <h2 class="text-anime-style-3">Find Properties In City</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="slide-container swiper">
+          <div class="slide-content">
+            <div class="card-wrapper swiper-wrapper">
+
+              <!-- Card 1 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p2.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 2 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p3.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 3 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/banner.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 4 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p4.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 5 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p5.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 6 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p6.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 7 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p7.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 8 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p8.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 9 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p9.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <!-- Card 10 -->
+              <div class="card1 swiper-slide">
+                <div class="image-content">
+                  <div class="card-image">
+                    <img src="assets/img/properties/p10.jpg" alt="house">
+                  </div>
+                </div>
+                <div class="card-content">
+                  <a href="properties.php" class="name">View Properties</a>
+                </div>
+                <div class="btn-area1">
+                  <a href="properties.php" class="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28" fill="none">
+                      <path d="M6.33301 22.168L20.333 8.16797" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M8.95801 8.16797H20.333V19.543" stroke="white" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+            </div> <!-- .card-wrapper -->
+          </div> <!-- .slide-content -->
+          <div class="swiper-pagination"></div>
+        </div> <!-- .slide-container -->
+      </div> <!-- .col-lg-12 -->
+    </div> <!-- .row -->
+  </div> <!-- .container -->
+</div>
+<!--===== PROPERTIES_LOCATION AREA ENDS =======-->
+
+
 
   <?php include 'footer.php'; ?>

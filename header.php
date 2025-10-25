@@ -75,8 +75,11 @@
           <div class="col-lg-2 col-md-6 col-6">
             <div class="vl-hero-btn d-none d-lg-block text-end">
               <div class="btn-area1">
-                <a href="properties.php" class="vl-btn1">View Properties <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></a>
-              </div>
+  <a href="https://wa.me/918240196991" target="_blank" class="wp-btn">
+    <i class="fa-brands fa-whatsapp"></i> WhatsApp
+  </a>
+</div>
+
             </div>
             <div class="vl-header-action-item d-block d-lg-none">
               <button type="button" class="vl-offcanvas-toggle">
@@ -89,6 +92,28 @@
     </div>
   </header>
   <!--=====HEADER END =======-->
+
+  <style>
+    .wp-btn {
+  background-color: #25D366;
+  color: #fff;
+  padding: 12px 28px;
+  border-radius: 50px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.wp-btn:hover {
+  background-color: #1ebe5a;
+  transform: translateY(-2px);
+}
+
+  </style>
+
   <!--===== MOBILE HEADER STARTS =======-->
   <div class="homepage1-body">
     <div class="vl-offcanvas">

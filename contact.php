@@ -7,7 +7,7 @@
           <div class="inner-header heading1">
             <h2>Contact Us</h2>
             <div class="space28"></div>
-            <p><a href="index.html">Home</a> <svg xmlns="http://www.w3.org/2000/svg" width="9" height="16" viewBox="0 0 9 16" fill="none">
+            <p><a href="index.php">Home</a> <svg xmlns="http://www.w3.org/2000/svg" width="9" height="16" viewBox="0 0 9 16" fill="none">
                 <path d="M1.5 1.74997L7.75 7.99997L1.5 14.25" stroke="#1B1B1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
               </svg> Contact Us</p>
           </div>
@@ -37,7 +37,7 @@
             </div>
             <div class="content">
               <p>Our Email</p>
-              <a href="mailto:Housarealesate@gmail.com">Housarealesate@gmail.com</a>
+              <a href="mailto:debashis@truevibesrealty.com">debashis@truevibesrealty.com</a>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
             </div>
             <div class="content">
               <p>Phone</p>
-              <a href="tel:+11234567890">+1 123 456 7890</a>
+              <a href="">8240196991 / 8777758452</a>
             </div>
           </div>
         </div>
@@ -73,7 +73,7 @@
             </div>
             <div class="content">
               <p>Location</p>
-              <a href="tel:+11234567890">123 Main St, Anytown, USA</a>
+              <a href="tel:+11234567890">130/11, Brahma Samaj Road, <br> Ground Floor Kolkata-700 034</a>
             </div>
           </div>
         </div>
@@ -146,7 +146,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="maps">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4506257.120552435!2d88.67021924228865!3d21.954385721237916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1704088968016!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d117890.01130416043!2d88.37284576779493!3d22.576752423988207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s130%2F11%2C%20Brahma%20Samaj%20Road%2C%20Ground%20Floor%20Kolkata-700%20034!5e0!3m2!1sen!2sin!4v1761404744139!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>

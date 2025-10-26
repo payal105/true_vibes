@@ -131,20 +131,26 @@
         </div>
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+          <div class="text-center">
+  <a href="https://wa.me/918240196991" target="_blank" class="wp-btn">
+    <i class="fa-brands fa-whatsapp"></i> WhatsApp
+  </a>
+</div>
           <div class="space20"></div>
-          <span><a href="#"> <i class="fa-regular fa-envelope"></i> +57 9954 6476</a></span>
-          <span><a href="#"><i class="fa-solid fa-phone"></i> hello@exdos.com</a></span>
-          <span><a href="#"><i class="fa-solid fa-location-dot"></i> Bhemeara,Kushtia</a></span>
+
+
+
+          <h3 class="vl-offcanvas-sm-title">Contact Information</h3>
+          <div class="space20"></div>
+          <span><a href="#"><i class="fa-solid fa-phone"></i>  8240196991/9073313355</a></span>
+          <span><a href="#"><i class="fa-regular fa-envelope"></i> debashis@truevibesrealty.com / subhankar@truevibesrealty.com </a></span>
+          <span><a href="#"><i class="fa-solid fa-location-dot"></i> 130/11, Brahma Samaj Road, Ground Floor Kolkata-700 034</a></span>
         </div>
         <div class="space20"></div>
         <div class="vl-offcanvas-social">
-          <h3 class="vl-offcanvas-sm-title">Follow Us</h3>
+         
           <div class="space20"></div>
-          <a href="#"><i class="fab fa-facebook-f"></i></a>
-          <a href="#"><i class="fab fa-twitter"></i></a>
-          <a href="#"><i class="fab fa-linkedin-in"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
+          
         </div>
       </div>
     </div>

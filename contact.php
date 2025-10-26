@@ -37,7 +37,7 @@
             </div>
             <div class="content">
               <p>Our Email</p>
-              <a href="mailto:debashis@truevibesrealty.com">debashis@truevibesrealty.com</a>
+              <a href="mailto:debashis@truevibesrealty.com">debashis@truevibesrealty.com / <br> subhankar@truevibesrealty.com </a>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
             </div>
             <div class="content">
               <p>Phone</p>
-              <a href="">8240196991 / 8777758452</a>
+              <a href="">8240196991 / <br>9073313355</a>
             </div>
           </div>
         </div>

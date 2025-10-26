@@ -82,7 +82,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="chosse-images">
-            <img src="assets/img/elements/elements8.png" alt="housa" class="elements8">
+            
             <div class="img1 text-end">
               <img src="assets/img/all-images/others/others-img9.png" alt="housa">
             </div>
@@ -92,50 +92,69 @@
           </div>
         </div>
         <div class="col-lg-6">
-          <div class="contact-boxarea">
+          <?php
+            if(isset($_SESSION['success'])) {
+                echo '<script>
+                    alert("' . $_SESSION['success'] . '");
+                </script>';
+                unset($_SESSION['success']);
+            }
+            if(isset($_SESSION['error'])) {
+                echo '<script>
+                    alert("' . $_SESSION['error'] . '");
+                </script>';
+                unset($_SESSION['error']);
+            }
+            ?>
+          <form class="contact-boxarea" action="send.php" method="POST" id="contactForm">
+            <script>
+            // Prevent form resubmission on page refresh
+            if (window.history.replaceState) {
+                window.history.replaceState(null, null, window.location.href);
+            }
+            // Clear form after successful submission
+            if (window.location.href.includes('sent=')) {
+                document.getElementById('contactForm').reset();
+            }
+            </script>
             <div class="bg-area">
               <h3>Send Us A Message</h3>
               <div class="space8"></div>
               <div class="row">
                 <div class="col-lg-6">
                   <div class="input-area">
-                    <input type="text" placeholder="Your Name">
+                    <input type="text" placeholder="Your Name" name="fname" required>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="input-area">
-                    <input type="text" placeholder="Last Name*">
+                    <input type="text" placeholder="Last Name*" name="lname" required>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="input-area">
-                    <input type="number" placeholder="Phone Number ">
+                    <input type="number" placeholder="Phone Number" name="phone" required>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="input-area">
-                    <input type="email" placeholder="Email Address*">
+                    <input type="email" placeholder="Email Address*" name="email" required>
                   </div>
                 </div>
                 <div class="col-lg-12">
                   <div class="input-area">
-                    <input type="text" placeholder="Service Type*">
-                  </div>
-                </div>
-                <div class="col-lg-12">
-                  <div class="input-area">
-                    <textarea placeholder="Your Message"></textarea>
+                    <textarea placeholder="Your Message" name="message" required></textarea>
                   </div>
                 </div>
                 <div class="col-lg-12">
                   <div class="space16"></div>
                   <div class="input-area text-end">
-                    <button type="submit" class="vl-btn1">Submit Now <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></button>
+                    <button type="submit" name="send" class="vl-btn1">Submit Now <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></button>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+          </form>
         </div>
       </div>
     </div>

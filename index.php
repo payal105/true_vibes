@@ -1,4 +1,15 @@
-  <?php include 'header.php'; ?>
+  <?php
+session_start();
+require 'PHPMailer/PHPMailer.php';
+require 'PHPMailer/SMTP.php';
+require 'PHPMailer/Exception.php';
+
+use PHPMailer\PHPMailer\PHPMailer as Mail;
+use PHPMailer\PHPMailer\SMTP as SMTPServer;
+use PHPMailer\PHPMailer\Exception as MailException;
+
+include 'header.php'; 
+?>
   <!--===== HERO AREA STARTS =======-->
   <div class="hero2-section-area" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(assets/img/properties/p3.jpg) center/cover no-repeat;">
     <div class="container">
@@ -394,7 +405,31 @@ True Vibes Realty — where every deal resonates with trust, value, and success.
           </div>
         </div>
         <div class="col-lg-6">
-          <form class="contact-boxarea" action="mailing.php" method="POST">
+          <?php
+            if(isset($_SESSION['success'])) {
+                echo '<script>
+                    alert("' . $_SESSION['success'] . '");
+                </script>';
+                unset($_SESSION['success']);
+            }
+            if(isset($_SESSION['error'])) {
+                echo '<script>
+                    alert("' . $_SESSION['error'] . '");
+                </script>';
+                unset($_SESSION['error']);
+            }
+            ?>
+          <form class="contact-boxarea" action="send.php" method="POST" id="contactForm">
+            <script>
+            // Prevent form resubmission on page refresh
+            if (window.history.replaceState) {
+                window.history.replaceState(null, null, window.location.href);
+            }
+            // Clear form after successful submission
+            if (window.location.href.includes('sent=')) {
+                document.getElementById('contactForm').reset();
+            }
+            </script>
             <div class="bg-area">
               <h3>Get In Touch</h3>
               <div class="space8"></div>
@@ -427,7 +462,7 @@ True Vibes Realty — where every deal resonates with trust, value, and success.
                 <div class="col-lg-12">
                   <div class="space16"></div>
                   <div class="input-area text-end">
-                    <button type="submit" class="vl-btn1">Submit Now <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></button>
+                    <button type="submit" name="send" class="vl-btn1">Submit Now <span class="arrow1"><i class="fa-solid fa-arrow-right"></i></span><span class="arrow2"><i class="fa-solid fa-arrow-right"></i></span></button>
                   </div>
                 </div>
               </div>
@@ -687,3 +722,5 @@ True Vibes Realty — where every deal resonates with trust, value, and success.
 
 
   <?php include 'footer.php'; ?>
+
+  

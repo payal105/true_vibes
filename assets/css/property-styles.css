@@ -1,0 +1,175 @@
+/* ====== PROPERTY SECTION ====== */
+.properties-section {
+  background: #f8f9fa;
+}
+
+.property-item {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  padding: 25px;
+}
+
+.property-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* ====== IMAGE SLIDER ====== */
+.property-slider {
+  position: relative;
+  height: 400px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.property-slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.property-slider img:hover {
+  transform: scale(1.05);
+}
+
+/* ====== SWIPER CUSTOMIZATION ====== */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.5);
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: all 0.3s ease;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  font-size: 20px;
+}
+
+.swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.6);
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background: #fff;
+}
+
+/* ====== PROPERTY CONTENT ====== */
+.property-content {
+  padding: 20px 15px;
+}
+
+.property-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #3498db;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.property-description p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 15px;
+}
+
+/* ====== AMENITIES ====== */
+.amenities-section {
+  margin-top: 25px;
+}
+
+.amenities-section h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.amenities-list {
+  list-style: none;
+  padding: 0;
+}
+
+.amenities-list li {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.amenities-list li i {
+  color: #3498db;
+  margin-right: 10px;
+  font-size: 1.1rem;
+}
+
+/* ====== CONTACT BUTTON ====== */
+.contact-section {
+  margin-top: 25px;
+}
+
+.contact-section .btn {
+  background-color: #3498db;
+  border: none;
+  padding: 12px 25px;
+  font-size: 1rem;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+
+.contact-section .btn:hover {
+  background-color: #217dbb;
+  transform: translateY(-2px);
+}
+
+/* ====== RESPONSIVE DESIGN ====== */
+@media (max-width: 991px) {
+  .property-slider {
+    height: 300px;
+    margin-bottom: 20px;
+  }
+
+  .property-title {
+    font-size: 1.6rem;
+  }
+
+  .property-description p {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .property-item {
+    padding: 15px;
+  }
+
+  .property-title {
+    font-size: 1.4rem;
+  }
+
+  .amenities-section h3 {
+    font-size: 1.1rem;
+  }
+
+  .contact-section .btn {
+    width: 100%;
+  }
+}

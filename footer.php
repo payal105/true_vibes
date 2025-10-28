@@ -434,6 +434,10 @@
   <script src="assets/js/plugins/slick-slider.js"></script>
   <script src="assets/js/plugins/circle-progress.js"></script>
   <script src="assets/js/main.js"></script>
+  <!-- Swiper JS -->
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <!-- Property Slider JS -->
+  <script src="assets/js/property-slider.js"></script>
 </body>
 
 </html>

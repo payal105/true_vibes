@@ -19,6 +19,9 @@
   <link rel="stylesheet" href="assets/css/plugins/swiper-slider.css">
   <link rel="stylesheet" href="assets/css/plugins/odometer.css">
   <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/property-styles.css">
+  <!-- Swiper CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 </head>
 
 <body class="body1 b-bg1">
